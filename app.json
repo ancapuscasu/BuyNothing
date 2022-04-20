@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An online space for neighbours to gift and ask for items aiding to promote community and a circular economy.",
+    "githubUrl": "https://github.com/ancapuscasu/BuyNothing"
   }
 }
