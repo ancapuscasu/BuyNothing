@@ -10,14 +10,14 @@ export default function ViewImageScreen() {
       <MaterialCommunityIcons
         style={styles.closeBtn}
         name="close"
-        size={24}
-        color="black"
+        size={30}
+        color="white"
       />
       <MaterialCommunityIcons
         style={styles.deleteBtn}
         name="delete"
-        size={24}
-        color="black"
+        size={30}
+        color="white"
       />
       <Image
         style={styles.itemImage}
@@ -35,12 +35,12 @@ const styles = StyleSheet.create({
   },
   closeBtn: {
     position: "absolute",
-    top: 20,
+    top: 30,
     left: 30,
   },
   deleteBtn: {
     position: "absolute",
-    top: 20,
+    top: 30,
     right: 30,
   },
   itemImage: {
