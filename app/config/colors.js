@@ -5,4 +5,5 @@ export default {
   white: "#fff",
   lightGrey: "#F2F2F2",
   textColor: "#434343",
+  mediumGrey: "#6E6969",
 };
