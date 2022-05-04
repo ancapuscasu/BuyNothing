@@ -3,8 +3,6 @@ import { ImageBackground, Image, StyleSheet, View, Text } from "react-native";
 
 import AppButton from "../components/AppButton";
 
-import colors from "../config/colors";
-
 export default function WelcomeScreen() {
   return (
     <ImageBackground
